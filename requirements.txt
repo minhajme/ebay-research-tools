@@ -9,5 +9,5 @@ kombu==4.2.1
 pkg-resources==0.0.0
 pytz==2018.5
 requests==2.19.1
-urllib3==1.23
+urllib3==1.26.5
 vine==1.1.4
